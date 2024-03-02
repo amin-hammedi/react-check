@@ -64,36 +64,36 @@ function App() {
       </Alert>
       <div className="cards">
         <Card style={{ width: "18rem" }}>
-          <Card.Img variant="top" src="holder.js/100px180" />
+          <Card.Img
+            variant="top"
+            src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTenZ2DYHnuUCaOXMy1BXraPLAoL2OR4iFgHA&usqp=CAU"
+          />
           <Card.Body>
-            <Card.Title>Card Title</Card.Title>
-            <Card.Text>
-              Some quick example text to build on the card title and make up the
-              bulk of the card's content.
-            </Card.Text>
-            <Button variant="primary">Go somewhere</Button>
+            <Card.Title>sweater</Card.Title>
+            <Card.Text>👍👍👍👍</Card.Text>
+            <Button variant="primary">buyy 👌</Button>
           </Card.Body>
         </Card>
         <Card style={{ width: "18rem" }}>
-          <Card.Img variant="top" src="holder.js/100px180" />
+          <Card.Img
+            variant="top"
+            src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBTNIB01YYk5v9Um2Cz8pc_h54YpSAT7Rhmg&usqp=CAU"
+          />
           <Card.Body>
-            <Card.Title>Card Title</Card.Title>
-            <Card.Text>
-              Some quick example text to build on the card title and make up the
-              bulk of the card's content.
-            </Card.Text>
-            <Button variant="primary">Go somewhere</Button>
+            <Card.Title>Socks</Card.Title>
+            <Card.Text>👍👍👍👍</Card.Text>
+            <Button variant="primary">buyy 👌</Button>
           </Card.Body>
         </Card>
         <Card style={{ width: "18rem" }}>
-          <Card.Img variant="top" src="holder.js/100px180" />
+          <Card.Img
+            variant="top"
+            src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbRSAueGgriUJU6GDP4nOYskomD0W_o5mn8Q&usqp=CAU"
+          />
           <Card.Body>
-            <Card.Title>Card Title</Card.Title>
-            <Card.Text>
-              Some quick example text to build on the card title and make up the
-              bulk of the card's content.
-            </Card.Text>
-            <Button variant="primary">Go somewhere</Button>
+            <Card.Title>pants</Card.Title>
+            <Card.Text>👍👍👍👍</Card.Text>
+            <Button variant="primary">buyy 👌</Button>
           </Card.Body>
         </Card>
       </div>
